@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="645b97e4-4c15-45bd-a54e-b2aa055b27d4" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TestCases/AutomationTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="365">
+              <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+              <folding>
+                <element signature="method#classInit#0;class#AutomationTests#0" />
+                <element signature="method#setUp#0;class#AutomationTests#0" />
+                <element signature="method#tearDown#0;class#AutomationTests#0" />
+                <element signature="e#2404#2442#1" />
+                <element signature="method#PurchaseThinkingInHTMLBook_DirectlyGotoCart_HappyScenario#0;class#AutomationTests#0" />
+                <element signature="method#PurchaseThinkingInHTMLBook_GoToProductFirst_DirectBankTransfer#0;class#AutomationTests#0" />
+                <element signature="method#PurchaseThinkingInHTMLBook_GoToProductFirst_CheckPayments#0;class#AutomationTests#0" />
+                <element signature="method#PurchaseThinkingInHTMLBook_GoToProductFirst_CashOnDelivery#0;class#AutomationTests#0" />
+                <element signature="method#PurchaseThinkingInHTMLBook_GoToProductFirst_PaypalExpressCheckout#0;class#AutomationTests#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/webAppTesting.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Utils/browserInit.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Utils/pageBase.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Utils/Listener.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/Pages/methods.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Pages/homePageElements.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestCases/TestBase.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Pages/homePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Pages/ProductPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Pages/BillingDetailsPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Pages/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Pages/CartPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestCases/AutomationTests.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="2" />
+    <option name="width" value="1932" />
+    <option name="height" value="1026" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="webAppTesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webAppTesting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webAppTesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webAppTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webAppTesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webAppTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webAppTesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webAppTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webAppTesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webAppTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="test-output" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/swagger-petstore-master/swagger-petstore-master" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.AutomationTests.PurchaseThinkingInHTMLBook_DirectlyGotoCart_HappyScenario">
+    <configuration name="AutomationTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="webAppTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestCases" />
+      <option name="MAIN_CLASS_NAME" value="TestCases.AutomationTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutomationTests.PurchaseThinkBook_CashOnDelivery" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="webAppTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestCases" />
+      <option name="MAIN_CLASS_NAME" value="TestCases.AutomationTests" />
+      <option name="METHOD_NAME" value="PurchaseThinkBook_CashOnDelivery" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutomationTests.PurchaseThinkBook_PaypalExpressCheckout" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="webAppTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestCases" />
+      <option name="MAIN_CLASS_NAME" value="TestCases.AutomationTests" />
+      <option name="METHOD_NAME" value="PurchaseThinkBook_PaypalExpressCheckout" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutomationTests.PurchaseThinkingInHTMLBook_DirectlyGotoCart_HappyScenario" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="webAppTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestCases" />
+      <option name="MAIN_CLASS_NAME" value="TestCases.AutomationTests" />
+      <option name="METHOD_NAME" value="PurchaseThinkingInHTMLBook_DirectlyGotoCart_HappyScenario" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutomationTests.PurchaseThinkingInHTMLBook_GoToProductFirst_DirectBankTransfer" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="webAppTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestCases" />
+      <option name="MAIN_CLASS_NAME" value="TestCases.AutomationTests" />
+      <option name="METHOD_NAME" value="PurchaseThinkingInHTMLBook_GoToProductFirst_DirectBankTransfer" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.AutomationTests.PurchaseThinkingInHTMLBook_DirectlyGotoCart_HappyScenario" />
+        <item itemvalue="TestNG.AutomationTests" />
+        <item itemvalue="TestNG.AutomationTests.PurchaseThinkingInHTMLBook_GoToProductFirst_DirectBankTransfer" />
+        <item itemvalue="TestNG.AutomationTests.PurchaseThinkBook_PaypalExpressCheckout" />
+        <item itemvalue="TestNG.AutomationTests.PurchaseThinkBook_CashOnDelivery" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="645b97e4-4c15-45bd-a54e-b2aa055b27d4" name="Default Changelist" comment="" />
+      <created>1703679346454</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703679346454</updated>
+      <workItem from="1703679347726" duration="4248000" />
+      <workItem from="1703683662924" duration="7851000" />
+      <workItem from="1703691588270" duration="7343000" />
+      <workItem from="1703711081456" duration="7708000" />
+      <workItem from="1703769049518" duration="603000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="AutomationTests - 2023.12.27 at 23h 19m 43s.xml">
+      <configuration name="AutomationTests" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AutomationTests - 2023.12.27 at 23h 20m 19s.xml">
+      <configuration name="AutomationTests" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AutomationTests - 2023.12.27 at 23h 22m 13s.xml">
+      <configuration name="AutomationTests" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AutomationTests - 2023.12.27 at 23h 30m 29s.xml">
+      <configuration name="AutomationTests" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AutomationTests - 2023.12.27 at 23h 46m 29s.xml">
+      <configuration name="AutomationTests" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AutomationTests - 2023.12.27 at 23h 50m 27s.xml">
+      <configuration name="AutomationTests" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AutomationTests - 2023.12.27 at 23h 52m 11s.xml">
+      <configuration name="AutomationTests" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AutomationTests - 2023.12.28 at 00h 13m 39s.xml">
+      <configuration name="AutomationTests" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AutomationTests - 2023.12.28 at 00h 16m 25s.xml">
+      <configuration name="AutomationTests" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AutomationTests_PurchaseThinkingInHTMLBook_DirectlyGotoCart_HappyScenario - 2023.12.28 at 10h 37m 57s.xml">
+      <configuration name="AutomationTests.PurchaseThinkingInHTMLBook_DirectlyGotoCart_HappyScenario" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="27753000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15884861" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49878544" weight="0.46587217" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50121456" side_tool="true" weight="0.41918296" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49959514" weight="0.3285968" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.21321961" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.32995737" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/webAppTesting.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestCases/TestBase.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/Pages/methods.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/Utils/Listener.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="46" column="50" selection-start-line="46" selection-start-column="50" selection-end-line="46" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Utils/browserInit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Pages/BillingDetailsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="method#fillAllBillingDetails#0;class#BillingDetailsPage#0" />
+            <element signature="n#!!block;n#payByCOD#0;n#BillingDetailsPage#0" />
+            <element signature="n#!!block;n#clickPlaceOrder#0;n#BillingDetailsPage#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Utils/pageBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1545#1728#1" />
+            <element signature="e#1653#1718#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Pages/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="60" column="9" lean-forward="true" selection-start-line="56" selection-start-column="8" selection-end-line="60" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Pages/ProductPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Pages/CartPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="38" column="41" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
+          <folding>
+            <element signature="method#getProductTitle#0;class#CartPage#0" />
+            <element signature="method#getProductPrice#0;class#CartPage#0" />
+            <element signature="e#913#989#0" />
+            <element signature="e#1021#1065#0" />
+            <element signature="method#ClickProceedToCheckout#0;class#CartPage#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-output/ExtentReport.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestCases/AutomationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+          <folding>
+            <element signature="method#classInit#0;class#AutomationTests#0" />
+            <element signature="method#setUp#0;class#AutomationTests#0" />
+            <element signature="method#tearDown#0;class#AutomationTests#0" />
+            <element signature="e#2404#2442#1" />
+            <element signature="method#PurchaseThinkingInHTMLBook_DirectlyGotoCart_HappyScenario#0;class#AutomationTests#0" />
+            <element signature="method#PurchaseThinkingInHTMLBook_GoToProductFirst_DirectBankTransfer#0;class#AutomationTests#0" />
+            <element signature="method#PurchaseThinkingInHTMLBook_GoToProductFirst_CheckPayments#0;class#AutomationTests#0" />
+            <element signature="method#PurchaseThinkingInHTMLBook_GoToProductFirst_CashOnDelivery#0;class#AutomationTests#0" />
+            <element signature="method#PurchaseThinkingInHTMLBook_GoToProductFirst_PaypalExpressCheckout#0;class#AutomationTests#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
